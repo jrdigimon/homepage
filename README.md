@@ -5,4 +5,4 @@
 **希望老师多帮助！**
 -座右铭：
 >决不放弃！
-![image](https://github.com/jrdigimon/homepage/blob/master/jr.png）
+![image](https://github.com/jrdigimon/homepage/blob/master/jr.png
